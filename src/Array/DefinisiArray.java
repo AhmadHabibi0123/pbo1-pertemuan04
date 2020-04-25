@@ -11,5 +11,11 @@ public class DefinisiArray {
         matakuliah[3] = "Organisasi Komputer";
         matakuliah[4] = "Pemrograman Web 2";
 
+        System.out.println(matakuliah[0]);
+        System.out.println(matakuliah[1]);
+        System.out.println(matakuliah[2]);
+        System.out.println(matakuliah[3]);
+        System.out.println(matakuliah[4]);
+
     }
 }
